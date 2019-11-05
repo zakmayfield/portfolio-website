@@ -67,4 +67,6 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 ## Stretch
 
 - [ ] Study the JavaScript used in your template and see if you can tweak any of the behavior to see how it works
+*line 295, i was able to comment out a function that displays a little x on the box that pops up and it took it away -- Also right under that there is a function that prevents the user from being able to exit out of the article by clicking IN the article, so you havce to click on the outside of that container to close it -- the developer called it bubbling*
+
 - [ ] Download another template and see if you can get the CSS preprocessor working on the project
